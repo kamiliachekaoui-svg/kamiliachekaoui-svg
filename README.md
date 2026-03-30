@@ -1,4 +1,5 @@
-## Hi! I'm a Software Engineering student passionate about web development.  
+## Hi!
+I'm a Software Engineering student passionate about web development.  
 Currently building projects to improve my skills in frontend and backend technologies.
 I'm always learning and looking for opportunities to grow as a developer.
 
